@@ -33,5 +33,5 @@ This project has a **frontend** built using **HTML, CSS, JavaScript** and a **ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Sweet-Shop.git
+   git clone https://github.com/shubhamkhr7693/Sweet-Shop.git
    cd Sweet-Shop
